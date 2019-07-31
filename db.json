@@ -1,4 +1,6 @@
-[
+{
+    reviews:
+    [
     {
         "username": "Mary Smith",
         "avatar": "assets/img/user-1.png",
@@ -28,3 +30,4 @@
         "review": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis vehicula risus a magna volutpat placerat. Maecenas a mauris tempor, eleifend mi id, ultricies quam. Praesent a neque a ligula consequat mattis euismod ut ligula. Etiam ipsum felis, rhoncus nec tristique a, mattis vitae lectus. Nam sollicitudin interdum magna, vel finibus velit iaculis ac. Donec vehicula vitae nulla quis malesuada. Maecenas iaculis, lacus nec feugiat mollis, nunc elit bibendum elit, quis dignissim odio justo et est."
     }
 ]
+}
