@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## JSON1 Repo
+
+This is the doc for this silly little JSON1 repo.
 
 You can use the [editor on GitHub](https://github.com/BlazeBiz/json1/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
